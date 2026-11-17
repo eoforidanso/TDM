@@ -1,13 +1,14 @@
 # Board Prep
 
-A study app with 400 clinical questions across 38 topics and 17 specialties.
-300 were extracted from `Pipi.pdf`, a 240-page Google Forms export. 100 more
-(ids 300–399) are original USMLE Step 2 CK–style questions, ten each in
+A study app with 600 clinical questions across 38 topics and 17 specialties.
+300 were extracted from `Pipi.pdf`, a 240-page Google Forms export. 300 more
+(ids 300–599) are original USMLE Step 2 CK–style questions, thirty each in
 endocrinology, urology, musculoskeletal, dermatology, rheumatology, allergy &
 immunology, communication & professionalism, nephrology & GU, hematology &
-palliative care, and oncology. Their source files are in `tools/specialties/`;
+palliative care, and oncology. Their source files are in `tools/specialties/`
+(files 01–10 are ids 300–399, files 11–20 are ids 400–599);
 `python3 tools/add_specialties.py` (run from `tools/`) rebuilds them into the bank.
-These 100 have not been clinically reviewed.
+These 300 have not been clinically reviewed.
 
 ```bash
 npm install

@@ -11,7 +11,9 @@ HERE = Path(__file__).parent
 BANK = HERE.parent / "src" / "data" / "questions.json"
 FIRST_ID = 300
 
-# file stem -> (category, topic for each question; one topic or a per-question rule)
+# Files are read in name order ("01 …" to "20 …") and numbered from FIRST_ID, so
+# new sets must get higher file numbers or existing ids (and saved progress) shift.
+# Name without the number -> (category, topic: a string, or a rule(file_no, n))
 SETS = {
     "Endocrinology": ("Endocrinology", "Endocrinology"),
     "Urology": ("Urology", "Urology"),
@@ -21,15 +23,19 @@ SETS = {
     "Allergy and Immunology": ("Allergy & Immunology", "Allergy & Immunology"),
     "Communication and Professionalism": ("Professionalism", "Communication & Professionalism"),
     "Nephrology and Genitourinary": ("Nephrology & GU", "Nephrology & Genitourinary"),
-    # questions 1-6 hematology, 7-10 palliative care
-    "Hematology and Palliative Care": ("Hematology & Palliative", lambda n: "Hematology" if n <= 6 else "Palliative Care"),
+    # set 1 (file 09): questions 1-6 hematology, 7-10 palliative care
+    # set 2 (file 19): questions 1-12 hematology, 13-20 palliative care
+    "Hematology and Palliative Care": (
+        "Hematology & Palliative",
+        lambda file_no, n: "Hematology" if n <= {9: 6, 19: 12}[file_no] else "Palliative Care",
+    ),
     "Oncology": ("Oncology", "Oncology"),
 }
 
 Q_RE = re.compile(r"\*\*(\d+)\.\*\* ([^\n]+)\n\n((?:- [A-E]\. [^\n]+\n)+)")
 A_RE = re.compile(r"\*\*(\d+)\. ([A-E]) — (.+?)\.\*\* ([^\n]+)")
 # The question sentence: the last sentence that starts with one of these words.
-ASK_RE = re.compile(r'(?:^|(?<=[.?!] )|(?<=[.?!]" ))' r"((?:Which|What|When|How|Before|If|Besides)\b[^.?!]*(?:\?|\.)?)\s*$")
+ASK_RE = re.compile(r'(?:^|(?<=[.?!] )|(?<=[.?!]" ))' r"((?:Which|What|When|Who|How|Before|If|Besides)\b[^.?!]*(?:\?|\.)?)\s*$")
 
 
 def split_stem(text):
@@ -40,6 +46,7 @@ def split_stem(text):
 
 
 def parse(path):
+    file_no = int(path.stem.split()[0])
     name = re.sub(r"^\d+\s+", "", path.stem)
     category, topic = SETS[name]
     body, answers = path.read_text().split("## Answers and explanations")
@@ -51,13 +58,14 @@ def parse(path):
         q = qs[int(m.group(1))]
         q["correct"] = m.group(2)
         q["explanation"] = [f"{m.group(3)}.", m.group(4).strip()]
-    assert len(qs) == 10 and all("correct" in q and len(q["options"]) == 5 for q in qs.values()), path
+    assert sorted(qs) == list(range(1, len(qs) + 1)), path
+    assert all("correct" in q and len(q["options"]) == 5 for q in qs.values()), path
     out = []
     for n in sorted(qs):
         q = qs[n]
         vignette, stem = split_stem(q["text"])
         out.append({
-            "topic": topic(n) if callable(topic) else topic,
+            "topic": topic(file_no, n) if callable(topic) else topic,
             "category": category,
             "vignette": vignette,
             "sharedCase": "",
