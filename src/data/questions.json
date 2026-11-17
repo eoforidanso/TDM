@@ -13930,5 +13930,4005 @@
   ],
   "priorCorrect": false,
   "supplied": false
+ },
+ {
+  "id": 300,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 19-year-old woman with type 1 diabetes is brought to the emergency department with vomiting and lethargy. Glucose is 480 mg/dL, arterial pH 7.12, bicarbonate 9 mEq/L, potassium 3.0 mEq/L. Normal saline has been started.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Start IV regular insulin infusion immediately"
+   },
+   {
+    "label": "B",
+    "text": "Give IV sodium bicarbonate"
+   },
+   {
+    "label": "C",
+    "text": "Give IV potassium and withhold insulin until potassium is at least 3.3 mEq/L"
+   },
+   {
+    "label": "D",
+    "text": "Give subcutaneous long-acting insulin"
+   },
+   {
+    "label": "E",
+    "text": "Switch fluids to 5% dextrose in water"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Replace potassium before insulin.",
+   "Insulin drives potassium into cells. In DKA, total body potassium is depleted even when the serum level looks normal. If potassium is below 3.3 mEq/L, insulin is held and potassium is given first to avoid fatal arrhythmia. Bicarbonate is reserved for pH below about 6.9."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 301,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 42-year-old man has blood pressure of 168/102 mm Hg despite three antihypertensive drugs. Potassium is 3.1 mEq/L while taking no diuretic.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best initial test?",
+  "options": [
+   {
+    "label": "A",
+    "text": "CT scan of the adrenal glands"
+   },
+   {
+    "label": "B",
+    "text": "Plasma aldosterone-to-renin ratio"
+   },
+   {
+    "label": "C",
+    "text": "24-hour urine metanephrines"
+   },
+   {
+    "label": "D",
+    "text": "Adrenal vein sampling"
+   },
+   {
+    "label": "E",
+    "text": "Renal artery duplex ultrasound"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Plasma aldosterone-to-renin ratio.",
+   "Resistant hypertension with spontaneous hypokalemia suggests primary hyperaldosteronism. Screening is a high aldosterone with suppressed renin. Imaging and adrenal vein sampling come only after biochemical confirmation."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 302,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 38-year-old woman has a thyroid nodule found on examination. TSH is normal. Ultrasound shows a 2-cm solid hypoechoic nodule with microcalcifications.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Radioactive iodine uptake scan"
+   },
+   {
+    "label": "B",
+    "text": "Repeat ultrasound in 12 months"
+   },
+   {
+    "label": "C",
+    "text": "Levothyroxine suppression therapy"
+   },
+   {
+    "label": "D",
+    "text": "Fine-needle aspiration biopsy"
+   },
+   {
+    "label": "E",
+    "text": "Total thyroidectomy"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Fine-needle aspiration.",
+   "With a normal or high TSH, the nodule is assessed by ultrasound, and nodules with suspicious features (solid, hypoechoic, microcalcifications, irregular margins) of 1 cm or more are biopsied. A radioiodine scan is used when TSH is low."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 303,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 36-year-old woman has episodic headaches, sweating, and palpitations. Plasma free metanephrines are markedly elevated and CT shows a 4-cm right adrenal mass. Surgery is planned.",
+  "sharedCase": "",
+  "stem": "Which medication should be started first?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Phenoxybenzamine"
+   },
+   {
+    "label": "B",
+    "text": "Propranolol"
+   },
+   {
+    "label": "C",
+    "text": "Hydrochlorothiazide"
+   },
+   {
+    "label": "D",
+    "text": "Spironolactone"
+   },
+   {
+    "label": "E",
+    "text": "Metoprolol"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Alpha blockade first.",
+   "In pheochromocytoma, phenoxybenzamine (or a selective alpha-1 blocker) is given for 1\u20132 weeks before surgery. A beta blocker given first leaves alpha-mediated vasoconstriction unopposed and can cause a hypertensive crisis."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 304,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 34-year-old woman has gained 12 kg over a year, with wide purple abdominal striae, proximal muscle weakness, and new hypertension. She takes no medications.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best initial test?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Morning serum cortisol"
+   },
+   {
+    "label": "B",
+    "text": "Plasma ACTH level"
+   },
+   {
+    "label": "C",
+    "text": "MRI of the pituitary"
+   },
+   {
+    "label": "D",
+    "text": "High-dose dexamethasone suppression test"
+   },
+   {
+    "label": "E",
+    "text": "Overnight 1-mg dexamethasone suppression test"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Overnight low-dose dexamethasone suppression test.",
+   "First establish hypercortisolism using one of: 1-mg overnight dexamethasone suppression, late-night salivary cortisol, or 24-hour urine free cortisol. ACTH and imaging come afterwards to find the source."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 305,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 45-year-old woman with Addison disease has had gastroenteritis for 2 days and has not kept her medications down. Blood pressure is 78/44 mm Hg, sodium 126 mEq/L, potassium 5.9 mEq/L, glucose 58 mg/dL.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate immediate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Oral fludrocortisone"
+   },
+   {
+    "label": "B",
+    "text": "IV hydrocortisone and IV normal saline"
+   },
+   {
+    "label": "C",
+    "text": "Cosyntropin stimulation test, then treat based on result"
+   },
+   {
+    "label": "D",
+    "text": "IV norepinephrine alone"
+   },
+   {
+    "label": "E",
+    "text": "Oral prednisone and discharge"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "IV hydrocortisone and saline.",
+   "This is adrenal crisis: hypotension, hyponatremia, hyperkalemia, hypoglycemia in a patient who missed steroids during illness. Treat at once; do not delay for testing."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 306,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 29-year-old asymptomatic woman has calcium of 11.2 mg/dL on routine testing. PTH is mildly elevated. Her mother also has \"high calcium.\" 24-hour urine calcium is very low, with a calcium-to-creatinine clearance ratio below 0.01.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Parathyroidectomy"
+   },
+   {
+    "label": "B",
+    "text": "Sestamibi scan"
+   },
+   {
+    "label": "C",
+    "text": "Reassurance, no treatment"
+   },
+   {
+    "label": "D",
+    "text": "Cinacalcet"
+   },
+   {
+    "label": "E",
+    "text": "IV bisphosphonate"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Reassurance.",
+   "Familial hypocalciuric hypercalcemia is caused by an inactivating mutation of the calcium-sensing receptor. Mild hypercalcemia, normal or slightly raised PTH, and very low urine calcium distinguish it from primary hyperparathyroidism. It is benign and surgery does not help."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 307,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 29-year-old woman has 8 months of amenorrhea and galactorrhea. Pregnancy test is negative, TSH is normal, prolactin is 180 ng/mL. MRI shows an 8-mm pituitary adenoma.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Transsphenoidal surgery"
+   },
+   {
+    "label": "B",
+    "text": "Observation only"
+   },
+   {
+    "label": "C",
+    "text": "Octreotide"
+   },
+   {
+    "label": "D",
+    "text": "Cabergoline"
+   },
+   {
+    "label": "E",
+    "text": "Radiation therapy"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Cabergoline.",
+   "Dopamine agonists are first-line for prolactinomas of any size; they lower prolactin and shrink the tumor. Surgery is for patients who fail or cannot tolerate medical therapy."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 308,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 41-year-old woman has anterior neck pain radiating to the jaw, palpitations, and tremor 3 weeks after a viral upper respiratory infection. The thyroid is exquisitely tender. TSH is suppressed, free T4 is high, ESR is 88 mm/h, and radioactive iodine uptake is very low.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Ibuprofen and propranolol"
+   },
+   {
+    "label": "B",
+    "text": "Methimazole"
+   },
+   {
+    "label": "C",
+    "text": "Radioactive iodine ablation"
+   },
+   {
+    "label": "D",
+    "text": "Levothyroxine"
+   },
+   {
+    "label": "E",
+    "text": "Thyroidectomy"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "NSAID and beta blocker.",
+   "Subacute (de Quervain) thyroiditis follows a viral illness and causes a painful gland, high ESR, and low iodine uptake because preformed hormone is leaking out. Antithyroid drugs do not work because no new hormone is being made."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 309,
+  "topic": "Endocrinology",
+  "category": "Endocrinology",
+  "vignette": "A 61-year-old man with type 2 diabetes takes metformin. HbA1c is 8.1%. He has heart failure with reduced ejection fraction and an eGFR of 48 mL/min/1.73 m\u00b2.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best medication to add?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Glipizide"
+   },
+   {
+    "label": "B",
+    "text": "Pioglitazone"
+   },
+   {
+    "label": "C",
+    "text": "Sitagliptin"
+   },
+   {
+    "label": "D",
+    "text": "Basal insulin"
+   },
+   {
+    "label": "E",
+    "text": "Empagliflozin"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "SGLT2 inhibitor.",
+   "In type 2 diabetes with heart failure or chronic kidney disease, an SGLT2 inhibitor reduces heart-failure hospitalization and slows kidney disease regardless of HbA1c. Pioglitazone worsens heart failure."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 310,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 15-year-old boy has 3 hours of sudden severe left scrotal pain and vomiting. The left testis is high-riding with a horizontal lie, and the cremasteric reflex is absent.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Scrotal ultrasound with Doppler, then decide"
+   },
+   {
+    "label": "B",
+    "text": "Immediate surgical exploration"
+   },
+   {
+    "label": "C",
+    "text": "Oral antibiotics and scrotal elevation"
+   },
+   {
+    "label": "D",
+    "text": "Urinalysis and urine culture"
+   },
+   {
+    "label": "E",
+    "text": "Analgesia and re-examine in 6 hours"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Immediate surgical exploration.",
+   "The picture is classic for testicular torsion. Salvage falls quickly after about 6 hours, so when clinical suspicion is high, surgery is not delayed for imaging. Both testes are fixed (orchiopexy) at operation."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 311,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 67-year-old man has a weak stream, hesitancy, and nocturia three times a night. The prostate is smooth, symmetric, and enlarged. Urinalysis is normal. He wants relief as quickly as possible.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best initial drug?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Finasteride"
+   },
+   {
+    "label": "B",
+    "text": "Oxybutynin"
+   },
+   {
+    "label": "C",
+    "text": "Tamsulosin"
+   },
+   {
+    "label": "D",
+    "text": "Bethanechol"
+   },
+   {
+    "label": "E",
+    "text": "Ciprofloxacin"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Tamsulosin.",
+   "Alpha-1 blockers relax prostatic and bladder-neck smooth muscle and work within days. 5-alpha-reductase inhibitors shrink the gland but take 6\u201312 months. Anticholinergics can provoke retention."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 312,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 34-year-old man has colicky right flank pain. CT without contrast shows a 4-mm stone in the distal right ureter with mild hydronephrosis. He is afebrile, creatinine is normal, urinalysis shows only blood, and pain is controlled with ketorolac.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Ureteroscopy with laser lithotripsy"
+   },
+   {
+    "label": "B",
+    "text": "Percutaneous nephrolithotomy"
+   },
+   {
+    "label": "C",
+    "text": "Shock wave lithotripsy"
+   },
+   {
+    "label": "D",
+    "text": "Hydration, analgesia, tamsulosin, and straining the urine"
+   },
+   {
+    "label": "E",
+    "text": "Admission for IV antibiotics"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Conservative management.",
+   "Ureteral stones of 5 mm or less usually pass on their own. With no infection, normal kidney function, and controlled pain, treat with fluids, NSAIDs, and an alpha blocker, and strain the urine to analyze the stone."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 313,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 58-year-old woman with diabetes has left flank pain, temperature of 39.4\u00b0C, and blood pressure of 92/58 mm Hg. CT shows a 9-mm obstructing proximal ureteral stone with hydronephrosis. Urinalysis shows many white cells and bacteria. Antibiotics and fluids are started.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Urgent decompression with ureteral stent or percutaneous nephrostomy"
+   },
+   {
+    "label": "B",
+    "text": "Shock wave lithotripsy"
+   },
+   {
+    "label": "C",
+    "text": "Tamsulosin and outpatient follow-up"
+   },
+   {
+    "label": "D",
+    "text": "Repeat CT in 48 hours"
+   },
+   {
+    "label": "E",
+    "text": "Immediate ureteroscopic stone removal"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Urgent decompression.",
+   "An obstructed, infected kidney is an emergency: antibiotics cannot reach a closed space. Drain first with a stent or nephrostomy; definitive stone treatment waits until the infection has cleared."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 314,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 62-year-old man with a 40-pack-year smoking history has two episodes of painless visible blood in the urine. Urine culture is negative. CT urography shows normal kidneys and ureters.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Repeat urinalysis in 3 months"
+   },
+   {
+    "label": "B",
+    "text": "PSA measurement only"
+   },
+   {
+    "label": "C",
+    "text": "Renal biopsy"
+   },
+   {
+    "label": "D",
+    "text": "Urine cytology only"
+   },
+   {
+    "label": "E",
+    "text": "Cystoscopy"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Cystoscopy.",
+   "Painless gross hematuria in an older smoker is bladder cancer until proven otherwise. Evaluation is upper-tract imaging plus cystoscopy; cytology alone is not sensitive enough."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 315,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 27-year-old man notices a painless, firm lump in the right testis. Ultrasound shows a 2-cm solid hypoechoic intratesticular mass. Serum tumor markers are drawn.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Trans-scrotal needle biopsy"
+   },
+   {
+    "label": "B",
+    "text": "Radical inguinal orchiectomy"
+   },
+   {
+    "label": "C",
+    "text": "Repeat ultrasound in 6 weeks"
+   },
+   {
+    "label": "D",
+    "text": "Trial of antibiotics"
+   },
+   {
+    "label": "E",
+    "text": "Trans-scrotal orchiectomy"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Radical inguinal orchiectomy.",
+   "A solid intratesticular mass is treated as cancer. Removal through the groin is both diagnosis and treatment. Any trans-scrotal approach risks seeding the scrotum and altering lymphatic spread."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 316,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 22-year-old sexually active man has 3 days of gradually worsening right scrotal pain and dysuria. The epididymis is tender and swollen, the cremasteric reflex is present, and pain improves when the scrotum is lifted.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Levofloxacin alone"
+   },
+   {
+    "label": "B",
+    "text": "Surgical exploration"
+   },
+   {
+    "label": "C",
+    "text": "Ceftriaxone and doxycycline"
+   },
+   {
+    "label": "D",
+    "text": "Trimethoprim-sulfamethoxazole"
+   },
+   {
+    "label": "E",
+    "text": "Ibuprofen alone"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Ceftriaxone plus doxycycline.",
+   "In sexually active men under 35, epididymitis is usually from chlamydia or gonorrhea. In older men, or those who practise insertive anal sex, enteric organisms are more likely and a fluoroquinolone is used."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 317,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 72-year-old man with known prostate enlargement took diphenhydramine for sleep. He now has been unable to urinate for 10 hours and has severe lower abdominal pain. A tender suprapubic mass is felt.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Start finasteride"
+   },
+   {
+    "label": "B",
+    "text": "CT scan of the abdomen and pelvis"
+   },
+   {
+    "label": "C",
+    "text": "Start tamsulosin and re-examine tomorrow"
+   },
+   {
+    "label": "D",
+    "text": "Bladder catheterization"
+   },
+   {
+    "label": "E",
+    "text": "Transurethral resection of the prostate"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Bladder catheterization.",
+   "Acute urinary retention needs prompt decompression. Anticholinergic and antihistamine drugs are common triggers in men with prostate enlargement. An alpha blocker is then started before a trial without catheter."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 318,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 24-year-old man with sickle cell disease has had a painful, rigid erection for 5 hours. The glans is soft. Cavernosal blood gas shows pH 7.18, PO2 24 mm Hg.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Corporal aspiration and intracavernosal phenylephrine"
+   },
+   {
+    "label": "B",
+    "text": "Oral sildenafil"
+   },
+   {
+    "label": "C",
+    "text": "Observation and ice packs"
+   },
+   {
+    "label": "D",
+    "text": "Embolization of the cavernosal artery"
+   },
+   {
+    "label": "E",
+    "text": "Oral terbutaline alone"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Aspiration and phenylephrine.",
+   "Hypoxic, acidotic cavernosal blood means ischemic (low-flow) priapism, a compartment syndrome of the penis. After 4 hours it needs aspiration and an alpha agonist to prevent fibrosis and erectile dysfunction."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 319,
+  "topic": "Urology",
+  "category": "Urology",
+  "vignette": "A 30-year-old man is brought in after a motor vehicle crash with a pelvic fracture. There is blood at the urethral meatus and a perineal hematoma. He cannot void.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Insertion of a Foley catheter"
+   },
+   {
+    "label": "B",
+    "text": "CT cystography"
+   },
+   {
+    "label": "C",
+    "text": "Intravenous pyelography"
+   },
+   {
+    "label": "D",
+    "text": "Suprapubic aspiration"
+   },
+   {
+    "label": "E",
+    "text": "Retrograde urethrography"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Retrograde urethrography.",
+   "Blood at the meatus, perineal bruising, inability to void, or a high-riding prostate after pelvic fracture suggests urethral injury. The urethra is imaged before any catheter is passed, because blind catheterization can turn a partial tear into a complete one."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 320,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 44-year-old man has 2 days of severe low back pain, numbness around the anus and inner thighs, bilateral leg weakness, and has not urinated for 14 hours.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "NSAIDs and physical therapy"
+   },
+   {
+    "label": "B",
+    "text": "Lumbar spine X-ray"
+   },
+   {
+    "label": "C",
+    "text": "Emergency MRI of the lumbar spine"
+   },
+   {
+    "label": "D",
+    "text": "Epidural steroid injection"
+   },
+   {
+    "label": "E",
+    "text": "Electromyography"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Emergency MRI.",
+   "Saddle numbness, bilateral leg weakness, and urinary retention mean cauda equina syndrome. It needs urgent MRI and surgical decompression; delay risks permanent bladder, bowel, and sexual dysfunction."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 321,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 23-year-old man falls on an outstretched hand. He has tenderness in the anatomic snuffbox. Wrist X-rays, including a scaphoid view, are normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Elastic bandage and return to sport"
+   },
+   {
+    "label": "B",
+    "text": "Thumb spica splint and repeat imaging in 10\u201314 days"
+   },
+   {
+    "label": "C",
+    "text": "Bone scan today"
+   },
+   {
+    "label": "D",
+    "text": "Immediate surgical fixation"
+   },
+   {
+    "label": "E",
+    "text": "Corticosteroid injection"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Thumb spica splint and repeat imaging.",
+   "Scaphoid fractures are often invisible on first X-rays. Because the blood supply enters distally, a missed fracture risks avascular necrosis of the proximal pole and nonunion. Treat as a fracture until proven otherwise (MRI is an alternative for early confirmation)."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 322,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 26-year-old man had a closed tibial shaft fracture splinted 6 hours ago. He now has severe leg pain not relieved by morphine, and pain increases sharply when his toes are passively extended. Pedal pulses are palpable.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Elevate the leg and re-examine in 4 hours"
+   },
+   {
+    "label": "B",
+    "text": "Doppler ultrasound of the leg"
+   },
+   {
+    "label": "C",
+    "text": "Increase opioid dose"
+   },
+   {
+    "label": "D",
+    "text": "Emergency fasciotomy"
+   },
+   {
+    "label": "E",
+    "text": "MRI of the leg"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Emergency fasciotomy.",
+   "Pain out of proportion and pain on passive stretch are the earliest signs of compartment syndrome. Pulses are usually still present; loss of pulse is a late sign. The diagnosis is clinical."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 323,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 13-year-old obese boy has 3 weeks of limp and left knee pain. Knee examination is normal. The left hip has limited internal rotation, and the thigh rotates outward when the hip is flexed.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Non-weight-bearing and surgical screw fixation"
+   },
+   {
+    "label": "B",
+    "text": "Physical therapy and weight loss"
+   },
+   {
+    "label": "C",
+    "text": "NSAIDs and follow-up in 6 weeks"
+   },
+   {
+    "label": "D",
+    "text": "Hip aspiration"
+   },
+   {
+    "label": "E",
+    "text": "Abduction brace"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Non-weight-bearing and surgical fixation.",
+   "Slipped capital femoral epiphysis presents in obese adolescents, often as referred knee pain. Obligatory external rotation on hip flexion is typical. The hip is pinned in place to stop further slip and avascular necrosis."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 324,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 58-year-old man with diabetes has 2 days of a hot, swollen, very painful right knee and a temperature of 38.7\u00b0C. He cannot tolerate any movement of the joint.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Start colchicine"
+   },
+   {
+    "label": "B",
+    "text": "Knee X-ray and outpatient follow-up"
+   },
+   {
+    "label": "C",
+    "text": "MRI of the knee"
+   },
+   {
+    "label": "D",
+    "text": "Blood cultures and oral antibiotics"
+   },
+   {
+    "label": "E",
+    "text": "Arthrocentesis"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Arthrocentesis.",
+   "An acutely hot, swollen joint with fever is septic arthritis until joint fluid proves otherwise. Fluid is sent for cell count, Gram stain, culture, and crystals before antibiotics are given."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 325,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 35-year-old man has 4 days of low back pain after lifting a heavy box. There is no fever, weight loss, trauma, weakness, numbness, or bladder change. Examination shows paraspinal muscle tenderness and a normal neurologic exam.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Lumbar spine X-ray"
+   },
+   {
+    "label": "B",
+    "text": "MRI of the lumbar spine"
+   },
+   {
+    "label": "C",
+    "text": "NSAIDs and continued normal activity"
+   },
+   {
+    "label": "D",
+    "text": "Bed rest for 1 week"
+   },
+   {
+    "label": "E",
+    "text": "Oral opioids"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "NSAIDs and staying active.",
+   "Acute low back pain without red flags is not imaged in the first 4\u20136 weeks. Most cases resolve on their own. Bed rest slows recovery."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 326,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 21-year-old man has an anterior shoulder dislocation after a fall.",
+  "sharedCase": "",
+  "stem": "Before reduction, which finding should be specifically looked for?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Loss of sensation over the lateral shoulder"
+   },
+   {
+    "label": "B",
+    "text": "Wrist drop"
+   },
+   {
+    "label": "C",
+    "text": "Loss of sensation over the little finger"
+   },
+   {
+    "label": "D",
+    "text": "Winging of the scapula"
+   },
+   {
+    "label": "E",
+    "text": "Loss of thumb opposition"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Sensation over the lateral shoulder.",
+   "The axillary nerve runs around the surgical neck of the humerus and is the nerve most often injured in anterior dislocation. It supplies the deltoid and the skin over it."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 327,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 68-year-old woman has a new vertebral compression fracture after bending to pick up a bag. Bone density shows a T-score of \u22122.8 at the hip. Calcium, vitamin D, creatinine, and TSH are normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Calcium and vitamin D only"
+   },
+   {
+    "label": "B",
+    "text": "Alendronate"
+   },
+   {
+    "label": "C",
+    "text": "Estrogen therapy"
+   },
+   {
+    "label": "D",
+    "text": "Calcitonin nasal spray"
+   },
+   {
+    "label": "E",
+    "text": "Repeat bone density in 2 years"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Alendronate.",
+   "A fragility fracture of the spine or hip, or a T-score of \u22122.5 or lower, is an indication for drug treatment. Oral bisphosphonates are first-line. Calcium and vitamin D are added but are not enough alone."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 328,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 32-year-old pregnant woman has numbness and tingling of the thumb, index, and middle fingers that wake her at night and improve when she shakes her hand. Strength is normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate initial management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Surgical release"
+   },
+   {
+    "label": "B",
+    "text": "Nerve conduction studies"
+   },
+   {
+    "label": "C",
+    "text": "Oral prednisone"
+   },
+   {
+    "label": "D",
+    "text": "Night-time wrist splint in neutral position"
+   },
+   {
+    "label": "E",
+    "text": "Cervical spine MRI"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Night-time wrist splint.",
+   "Carpal tunnel syndrome is common in pregnancy and usually improves after delivery. Splinting is first-line; injection or surgery is for persistent or severe disease with weakness or thenar wasting."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 329,
+  "topic": "Musculoskeletal",
+  "category": "Musculoskeletal",
+  "vignette": "A 22-year-old soccer player plants her foot and pivots, feels a \"pop\" in the knee, and has swelling within an hour. The Lachman test shows increased forward movement of the tibia with a soft end point.",
+  "sharedCase": "",
+  "stem": "Which structure is most likely injured?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Medial meniscus"
+   },
+   {
+    "label": "B",
+    "text": "Posterior cruciate ligament"
+   },
+   {
+    "label": "C",
+    "text": "Medial collateral ligament"
+   },
+   {
+    "label": "D",
+    "text": "Patellar tendon"
+   },
+   {
+    "label": "E",
+    "text": "Anterior cruciate ligament"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Anterior cruciate ligament.",
+   "A non-contact pivot injury with a pop and rapid swelling (blood in the joint) plus a positive Lachman test indicates ACL tear. Meniscal tears swell more slowly and cause locking or catching. MRI confirms."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 330,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 46-year-old woman has an 8-mm pigmented lesion on her back that has grown over 6 months. It is asymmetric with irregular borders and several shades of brown and black.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Shave biopsy"
+   },
+   {
+    "label": "B",
+    "text": "Cryotherapy"
+   },
+   {
+    "label": "C",
+    "text": "Photograph and re-examine in 3 months"
+   },
+   {
+    "label": "D",
+    "text": "Excisional biopsy with narrow margins"
+   },
+   {
+    "label": "E",
+    "text": "Wide local excision with 2-cm margins"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Excisional biopsy with narrow margins.",
+   "A lesion suspicious for melanoma is removed whole with 1\u20133 mm margins so the pathologist can measure depth (Breslow thickness), the main factor in prognosis and in how wide the later re-excision must be. A shave biopsy may cut through the base and lose the depth."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 331,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 31-year-old woman started lamotrigine 2 weeks ago. She has fever, painful erosions of the lips and mouth, red eyes, and dusky skin lesions with blistering and sloughing over about 8% of her body. Light rubbing separates the skin.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Stop lamotrigine and admit for supportive care, ideally in a burn unit"
+   },
+   {
+    "label": "B",
+    "text": "Reduce the lamotrigine dose"
+   },
+   {
+    "label": "C",
+    "text": "Oral antihistamine and discharge"
+   },
+   {
+    "label": "D",
+    "text": "Topical corticosteroid"
+   },
+   {
+    "label": "E",
+    "text": "Oral amoxicillin"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Stop the drug and admit.",
+   "Stevens\u2013Johnson syndrome (under 10% of body surface) and toxic epidermal necrolysis (over 30%) usually start 1\u20133 weeks after a new drug: anticonvulsants, sulfonamides, allopurinol, NSAIDs. Stopping the drug and burn-style supportive care are the key steps."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 332,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 29-year-old man has well-demarcated red plaques with thick silvery scale on both elbows and knees, covering about 3% of his body. Fingernails show pitting.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best initial treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Oral methotrexate"
+   },
+   {
+    "label": "B",
+    "text": "High-potency topical corticosteroid"
+   },
+   {
+    "label": "C",
+    "text": "Oral prednisone"
+   },
+   {
+    "label": "D",
+    "text": "Adalimumab"
+   },
+   {
+    "label": "E",
+    "text": "Oral terbinafine"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "High-potency topical corticosteroid.",
+   "Limited plaque psoriasis is treated topically, often with a vitamin D analog added. Systemic agents and biologics are for extensive disease or psoriatic arthritis. Oral steroids are avoided because stopping them can trigger a severe flare."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 333,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 19-year-old woman has severe nodulocystic acne with scarring that has not responded to topical retinoids and 4 months of oral doxycycline. Isotretinoin is planned.",
+  "sharedCase": "",
+  "stem": "Which of the following is required before starting?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Liver biopsy"
+   },
+   {
+    "label": "B",
+    "text": "Bone density scan"
+   },
+   {
+    "label": "C",
+    "text": "Pregnancy testing and two forms of contraception"
+   },
+   {
+    "label": "D",
+    "text": "Electrocardiogram"
+   },
+   {
+    "label": "E",
+    "text": "Chest X-ray"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Pregnancy testing and contraception.",
+   "Isotretinoin is a severe teratogen. Patients who can become pregnant need two negative pregnancy tests before starting, monthly testing, and two forms of contraception. Lipids and liver enzymes are also monitored."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 334,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 70-year-old farmer has a slowly growing, pearly papule with rolled borders and fine surface blood vessels on the side of his nose. Biopsy confirms the diagnosis.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Topical hydrocortisone"
+   },
+   {
+    "label": "B",
+    "text": "Sentinel lymph node biopsy"
+   },
+   {
+    "label": "C",
+    "text": "Observation"
+   },
+   {
+    "label": "D",
+    "text": "Systemic chemotherapy"
+   },
+   {
+    "label": "E",
+    "text": "Mohs micrographic surgery"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Mohs surgery.",
+   "Basal cell carcinoma rarely spreads but invades locally. On the face, Mohs surgery gives the highest cure rate while sparing tissue."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 335,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 78-year-old man has very itchy, tense blisters on his thighs and trunk. The blisters do not rupture easily and his mouth is clear.",
+  "sharedCase": "",
+  "stem": "Which finding is expected on direct immunofluorescence of skin beside a blister?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Net-like IgG between keratinocytes"
+   },
+   {
+    "label": "B",
+    "text": "Linear IgG and C3 along the basement membrane"
+   },
+   {
+    "label": "C",
+    "text": "Granular IgA at the tips of the dermal papillae"
+   },
+   {
+    "label": "D",
+    "text": "No immune deposits"
+   },
+   {
+    "label": "E",
+    "text": "Granular IgM at the dermal\u2013epidermal junction only"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Linear IgG and C3 at the basement membrane.",
+   "Bullous pemphigoid affects older adults, with tense, itchy blisters and spared mucosa; antibodies target hemidesmosomes. Pemphigus vulgaris gives flaccid blisters, mouth erosions, and a net-like pattern between cells."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 336,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 33-year-old man returns from camping in Connecticut. He has a 12-cm expanding red patch with central clearing on his thigh, fatigue, and mild joint aches.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Lyme serology and treat only if positive"
+   },
+   {
+    "label": "B",
+    "text": "Skin biopsy"
+   },
+   {
+    "label": "C",
+    "text": "Oral doxycycline"
+   },
+   {
+    "label": "D",
+    "text": "IV ceftriaxone"
+   },
+   {
+    "label": "E",
+    "text": "Topical antifungal cream"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Oral doxycycline.",
+   "Erythema migrans in an endemic area is a clinical diagnosis. Serology is often negative this early and is not needed. IV ceftriaxone is for neurologic disease or high-grade heart block."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 337,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 6-year-old boy has a scaly patch of hair loss on the scalp with broken hairs appearing as black dots, and tender nodes at the back of the neck.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Topical clotrimazole"
+   },
+   {
+    "label": "B",
+    "text": "Selenium sulfide shampoo alone"
+   },
+   {
+    "label": "C",
+    "text": "Topical corticosteroid"
+   },
+   {
+    "label": "D",
+    "text": "Oral griseofulvin"
+   },
+   {
+    "label": "E",
+    "text": "Oral cephalexin"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Oral griseofulvin.",
+   "Tinea capitis involves the hair shaft, which topical drugs do not reach. Oral griseofulvin or terbinafine is needed. Antifungal shampoo can be added to reduce spread."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 338,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 2-year-old girl with atopic dermatitis develops fever and clusters of small blisters and punched-out erosions with crusting over her eczema on the cheeks and arms.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Acyclovir"
+   },
+   {
+    "label": "B",
+    "text": "Higher-potency topical corticosteroid"
+   },
+   {
+    "label": "C",
+    "text": "Topical mupirocin alone"
+   },
+   {
+    "label": "D",
+    "text": "Oral antihistamine"
+   },
+   {
+    "label": "E",
+    "text": "Oral fluconazole"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Acyclovir.",
+   "Eczema herpeticum is herpes simplex spreading across skin affected by atopic dermatitis. It can be life-threatening and needs prompt antiviral treatment. If lesions are near the eye, an eye examination is needed."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 339,
+  "topic": "Dermatology",
+  "category": "Dermatology",
+  "vignette": "A 68-year-old fair-skinned man has several rough, sandpaper-like, scaly papules on his bald scalp and the backs of his hands.",
+  "sharedCase": "",
+  "stem": "If untreated, these lesions may progress to which of the following?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Basal cell carcinoma"
+   },
+   {
+    "label": "B",
+    "text": "Melanoma"
+   },
+   {
+    "label": "C",
+    "text": "Squamous cell carcinoma"
+   },
+   {
+    "label": "D",
+    "text": "Merkel cell carcinoma"
+   },
+   {
+    "label": "E",
+    "text": "Mycosis fungoides"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Squamous cell carcinoma.",
+   "Actinic keratoses are caused by long-term sun exposure and are precursors of squamous cell carcinoma. They are treated with cryotherapy when few, or with topical fluorouracil when many."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 340,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 72-year-old woman has 2 weeks of right-sided headache, scalp tenderness, pain in the jaw when chewing, and a brief episode of vision loss in the right eye this morning. ESR is 95 mm/h.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Temporal artery biopsy, then treat if positive"
+   },
+   {
+    "label": "B",
+    "text": "High-dose glucocorticoids immediately"
+   },
+   {
+    "label": "C",
+    "text": "MRI of the brain"
+   },
+   {
+    "label": "D",
+    "text": "Sumatriptan"
+   },
+   {
+    "label": "E",
+    "text": "Low-dose aspirin alone"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "High-dose glucocorticoids at once.",
+   "Giant cell arteritis threatens permanent blindness. Steroids are started on clinical suspicion; biopsy remains positive for 1\u20132 weeks after treatment begins, so it never delays treatment."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 341,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 66-year-old man with stage 4 chronic kidney disease wakes with severe pain, redness, and swelling of the right big toe. Joint fluid shows needle-shaped, negatively birefringent crystals; Gram stain is negative.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Indomethacin"
+   },
+   {
+    "label": "B",
+    "text": "Allopurinol started today as the only treatment"
+   },
+   {
+    "label": "C",
+    "text": "High-dose colchicine"
+   },
+   {
+    "label": "D",
+    "text": "Glucocorticoid, intra-articular or oral"
+   },
+   {
+    "label": "E",
+    "text": "Probenecid"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Glucocorticoid.",
+   "In acute gout with advanced kidney disease, NSAIDs are avoided and colchicine needs major dose reduction, so a steroid injection or short oral course is preferred. Urate-lowering therapy does not treat the acute attack."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 342,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 38-year-old woman has 4 months of pain and swelling in the knuckles and middle finger joints of both hands and both wrists, with morning stiffness lasting 2 hours. Anti-CCP antibody is positive.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best initial long-term treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Methotrexate"
+   },
+   {
+    "label": "B",
+    "text": "Long-term prednisone alone"
+   },
+   {
+    "label": "C",
+    "text": "Naproxen alone"
+   },
+   {
+    "label": "D",
+    "text": "Hydroxychloroquine alone"
+   },
+   {
+    "label": "E",
+    "text": "Etanercept"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Methotrexate.",
+   "A disease-modifying drug is started as soon as rheumatoid arthritis is diagnosed to prevent joint erosion; methotrexate is first choice. NSAIDs and steroids relieve symptoms only. Biologics are added if methotrexate fails."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 343,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 58-year-old woman taking hydralazine for 10 months has joint pains, pleuritic chest pain, and low-grade fever. ANA is positive. There is no kidney or nervous system involvement.",
+  "sharedCase": "",
+  "stem": "Which antibody is most likely to be present?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Anti\u2013double-stranded DNA"
+   },
+   {
+    "label": "B",
+    "text": "Anti-Smith"
+   },
+   {
+    "label": "C",
+    "text": "Anti-centromere"
+   },
+   {
+    "label": "D",
+    "text": "Anti-Jo-1"
+   },
+   {
+    "label": "E",
+    "text": "Anti-histone"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Anti-histone.",
+   "Drug-induced lupus (hydralazine, procainamide, isoniazid, minocycline, TNF inhibitors) causes joint pain, serositis, and fever, usually sparing the kidneys and brain. It resolves when the drug is stopped."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 344,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 24-year-old man has 8 months of low back and buttock pain with stiffness that lasts over an hour each morning, improves with exercise, and wakes him in the second half of the night. Forward bending of the spine is reduced.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best initial test?",
+  "options": [
+   {
+    "label": "A",
+    "text": "HLA-B27 testing"
+   },
+   {
+    "label": "B",
+    "text": "MRI of the whole spine"
+   },
+   {
+    "label": "C",
+    "text": "X-ray of the sacroiliac joints"
+   },
+   {
+    "label": "D",
+    "text": "Bone scan"
+   },
+   {
+    "label": "E",
+    "text": "Rheumatoid factor"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "X-ray of the sacroiliac joints.",
+   "Inflammatory back pain in a young man suggests ankylosing spondylitis. Plain films showing sacroiliitis are the first test; MRI is used if films are normal and suspicion remains. HLA-B27 supports but does not make the diagnosis."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 345,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 74-year-old woman has an acutely swollen, painful knee. X-ray shows calcification within the joint cartilage.",
+  "sharedCase": "",
+  "stem": "Which finding is expected in the joint fluid?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Needle-shaped crystals, negatively birefringent"
+   },
+   {
+    "label": "B",
+    "text": "Rhomboid crystals, positively birefringent"
+   },
+   {
+    "label": "C",
+    "text": "Gram-positive cocci in clusters"
+   },
+   {
+    "label": "D",
+    "text": "Cholesterol crystals"
+   },
+   {
+    "label": "E",
+    "text": "Clear fluid with fewer than 200 white cells"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Rhomboid, positively birefringent crystals.",
+   "Calcium pyrophosphate deposition (pseudogout) often affects the knee or wrist in older adults, with cartilage calcification on X-ray. In younger patients look for hemochromatosis, hyperparathyroidism, and low magnesium."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 346,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 70-year-old woman has 6 weeks of aching and morning stiffness in both shoulders and hips, with difficulty getting out of a chair because of pain. Muscle strength is normal. ESR is 70 mm/h; creatine kinase is normal. She has no headache or visual symptoms.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "High-dose prednisone (60 mg daily)"
+   },
+   {
+    "label": "B",
+    "text": "Methotrexate"
+   },
+   {
+    "label": "C",
+    "text": "Muscle biopsy"
+   },
+   {
+    "label": "D",
+    "text": "Low-dose prednisone (15 mg daily)"
+   },
+   {
+    "label": "E",
+    "text": "Physical therapy only"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Low-dose prednisone.",
+   "Polymyalgia rheumatica causes pain and stiffness, not true weakness, with a high ESR and normal muscle enzymes. Response to 10\u201320 mg of prednisone is rapid. High doses are for accompanying giant cell arteritis."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 347,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 48-year-old woman with diffuse systemic sclerosis has new headaches and blood pressure of 196/118 mm Hg. Creatinine has risen from 0.9 to 2.6 mg/dL in 2 weeks. Urinalysis shows mild protein only.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Captopril"
+   },
+   {
+    "label": "B",
+    "text": "High-dose glucocorticoids"
+   },
+   {
+    "label": "C",
+    "text": "Hydrochlorothiazide"
+   },
+   {
+    "label": "D",
+    "text": "Cyclophosphamide"
+   },
+   {
+    "label": "E",
+    "text": "Metoprolol"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "ACE inhibitor.",
+   "Scleroderma renal crisis presents with sudden severe hypertension and falling kidney function. ACE inhibitors greatly improved survival. Recent high-dose steroid use is a risk factor."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 348,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 47-year-old man has months of bloody nasal discharge and sinus pain, now with coughing up blood. Chest imaging shows cavitating nodules. Urinalysis shows red cell casts.",
+  "sharedCase": "",
+  "stem": "Which antibody is most likely to be present?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Anti\u2013glomerular basement membrane"
+   },
+   {
+    "label": "B",
+    "text": "p-ANCA (anti-myeloperoxidase)"
+   },
+   {
+    "label": "C",
+    "text": "c-ANCA (anti\u2013proteinase 3)"
+   },
+   {
+    "label": "D",
+    "text": "Anti\u2013double-stranded DNA"
+   },
+   {
+    "label": "E",
+    "text": "Anti-centromere"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "c-ANCA.",
+   "Granulomatosis with polyangiitis affects the upper airway, lungs, and kidneys. Anti-GBM disease affects lungs and kidneys but not the sinuses. Treatment is glucocorticoids with rituximab or cyclophosphamide."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 349,
+  "topic": "Rheumatology",
+  "category": "Rheumatology",
+  "vignette": "A 30-year-old woman has a deep vein thrombosis of the leg. She has had three first-trimester miscarriages. Platelets are 110,000/mm\u00b3, and the PTT is prolonged and does not correct when mixed with normal plasma. Repeat testing 12 weeks later is unchanged. She is not pregnant.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate long-term treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Aspirin alone"
+   },
+   {
+    "label": "B",
+    "text": "Three months of rivaroxaban"
+   },
+   {
+    "label": "C",
+    "text": "Factor VIII replacement"
+   },
+   {
+    "label": "D",
+    "text": "Glucocorticoids"
+   },
+   {
+    "label": "E",
+    "text": "Long-term warfarin"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Long-term warfarin.",
+   "Antiphospholipid syndrome is clotting or pregnancy loss with a persistent antiphospholipid antibody (lupus anticoagulant, anticardiolipin, or anti\u2013\u03b22-glycoprotein I) on two tests 12 weeks apart. The lupus anticoagulant prolongs the PTT in the test tube but causes clotting in the body. Warfarin is preferred over direct oral anticoagulants; in pregnancy, heparin plus aspirin is used."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 350,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 27-year-old man is stung by a bee. Ten minutes later he has widespread hives, wheezing, lip swelling, and blood pressure of 82/50 mm Hg.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate immediate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "IV diphenhydramine"
+   },
+   {
+    "label": "B",
+    "text": "IV methylprednisolone"
+   },
+   {
+    "label": "C",
+    "text": "Intramuscular epinephrine in the outer thigh"
+   },
+   {
+    "label": "D",
+    "text": "Subcutaneous epinephrine in the arm"
+   },
+   {
+    "label": "E",
+    "text": "Nebulized albuterol"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Intramuscular epinephrine.",
+   "Epinephrine into the outer thigh is the first and only life-saving drug in anaphylaxis; absorption is faster than from a subcutaneous injection. Antihistamines and steroids are add-ons and never replace it."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 351,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 60-year-old man who started lisinopril 3 weeks ago has swelling of the lips and tongue. There are no hives or itching.",
+  "sharedCase": "",
+  "stem": "Which of the following best explains this reaction?",
+  "options": [
+   {
+    "label": "A",
+    "text": "IgE-mediated mast cell release"
+   },
+   {
+    "label": "B",
+    "text": "Accumulation of bradykinin"
+   },
+   {
+    "label": "C",
+    "text": "Immune complex deposition"
+   },
+   {
+    "label": "D",
+    "text": "C1 inhibitor deficiency"
+   },
+   {
+    "label": "E",
+    "text": "Direct T-cell toxicity"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Bradykinin.",
+   "ACE normally breaks down bradykinin. ACE inhibitor angioedema has no hives or itch, can appear weeks to years after starting, and does not respond reliably to antihistamines or epinephrine. The drug is stopped permanently and the airway watched."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 352,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 19-year-old woman has recurrent episodes of swelling of the face and hands without hives, and bouts of severe abdominal pain. Her father has similar episodes. Antihistamines do not help. C4 is low.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most likely cause?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Deficiency of C1 esterase inhibitor"
+   },
+   {
+    "label": "B",
+    "text": "IgE against a food allergen"
+   },
+   {
+    "label": "C",
+    "text": "Deficiency of C5\u2013C9"
+   },
+   {
+    "label": "D",
+    "text": "Mast cell overgrowth"
+   },
+   {
+    "label": "E",
+    "text": "Deficiency of IgA"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "C1 esterase inhibitor deficiency.",
+   "Hereditary angioedema is autosomal dominant, bradykinin-driven, and causes swelling of skin, gut, and airway without hives. C4 is low. Attacks are treated with C1 inhibitor concentrate, icatibant, or ecallantide. ACE inhibitors are avoided."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 353,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 28-year-old man has had four episodes of sinusitis and two pneumonias in 2 years, and chronic diarrhea from Giardia. IgG, IgA, and IgM are all low. B-cell count is normal. Response to vaccines is poor.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Bone marrow transplantation"
+   },
+   {
+    "label": "B",
+    "text": "Interferon gamma"
+   },
+   {
+    "label": "C",
+    "text": "Long-term prednisone"
+   },
+   {
+    "label": "D",
+    "text": "Immunoglobulin replacement"
+   },
+   {
+    "label": "E",
+    "text": "Thymus transplantation"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Immunoglobulin replacement.",
+   "Common variable immunodeficiency presents in young adults with recurrent sinus and lung infections, Giardia, low immunoglobulins, and poor vaccine response, with B cells present but not maturing. Risk of autoimmune disease and lymphoma is raised."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 354,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 34-year-old woman with recurrent sinus infections and celiac disease receives a red cell transfusion. Within minutes she has hives, wheezing, and hypotension.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most likely underlying condition?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Common variable immunodeficiency"
+   },
+   {
+    "label": "B",
+    "text": "Chronic granulomatous disease"
+   },
+   {
+    "label": "C",
+    "text": "Hyper-IgM syndrome"
+   },
+   {
+    "label": "D",
+    "text": "C3 deficiency"
+   },
+   {
+    "label": "E",
+    "text": "Selective IgA deficiency"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Selective IgA deficiency.",
+   "It is the most common primary immunodeficiency and often silent. Some patients have sinus and gut infections and autoimmune disease such as celiac disease. Those with anti-IgA antibodies can have anaphylaxis to blood products containing IgA."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 355,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 9-month-old boy has had three episodes of otitis media and two pneumonias since age 6 months. Tonsils are not visible and no lymph nodes are felt. All immunoglobulin classes are very low, and CD19-positive cells are absent. A maternal uncle died of infection in childhood.",
+  "sharedCase": "",
+  "stem": "Which gene is most likely affected?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Bruton tyrosine kinase"
+   },
+   {
+    "label": "B",
+    "text": "CD40 ligand"
+   },
+   {
+    "label": "C",
+    "text": "Adenosine deaminase"
+   },
+   {
+    "label": "D",
+    "text": "WAS"
+   },
+   {
+    "label": "E",
+    "text": "NADPH oxidase"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Bruton tyrosine kinase.",
+   "X-linked agammaglobulinemia appears in boys after about 6 months, when maternal antibody fades. B cells are absent, so tonsils and nodes are small or missing. Treatment is immunoglobulin replacement; live vaccines are avoided."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 356,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 4-year-old boy has had recurrent skin abscesses from Staphylococcus aureus, a liver abscess, and pneumonia from Aspergillus.",
+  "sharedCase": "",
+  "stem": "Which test is most likely to confirm the diagnosis?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Serum immunoglobulin levels"
+   },
+   {
+    "label": "B",
+    "text": "Total hemolytic complement (CH50)"
+   },
+   {
+    "label": "C",
+    "text": "Dihydrorhodamine flow cytometry"
+   },
+   {
+    "label": "D",
+    "text": "T-cell count"
+   },
+   {
+    "label": "E",
+    "text": "Sweat chloride"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Dihydrorhodamine flow cytometry.",
+   "Chronic granulomatous disease is a defect of NADPH oxidase: phagocytes cannot make the oxidative burst and fail to kill catalase-positive organisms (Staphylococcus aureus, Aspergillus, Serratia, Nocardia, Burkholderia)."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 357,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 25-year-old woman has sneezing, itchy nose, nasal blockage, and clear discharge every spring. Nasal lining is pale and swollen.",
+  "sharedCase": "",
+  "stem": "Which single treatment is most effective?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Intranasal corticosteroid"
+   },
+   {
+    "label": "B",
+    "text": "Oral diphenhydramine"
+   },
+   {
+    "label": "C",
+    "text": "Oral pseudoephedrine"
+   },
+   {
+    "label": "D",
+    "text": "Intranasal oxymetazoline for the season"
+   },
+   {
+    "label": "E",
+    "text": "Oral montelukast"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Intranasal corticosteroid.",
+   "It is the most effective single treatment for allergic rhinitis, including for blockage. Topical decongestants used for more than 3 days cause rebound congestion."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 358,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 9-year-old boy finishes a course of cefaclor. Eight days after starting it he develops fever, an itchy hive-like rash, and pain in several joints. Urinalysis shows mild protein. C3 and C4 are low.",
+  "sharedCase": "",
+  "stem": "Which type of reaction is this?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Type I, IgE-mediated"
+   },
+   {
+    "label": "B",
+    "text": "Type II, antibody against cells"
+   },
+   {
+    "label": "C",
+    "text": "Type IV, T-cell mediated"
+   },
+   {
+    "label": "D",
+    "text": "Type III, immune complex"
+   },
+   {
+    "label": "E",
+    "text": "Direct drug toxicity"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Type III.",
+   "Serum sickness-like reactions occur 1\u20132 weeks after exposure to a drug or foreign protein, with fever, rash, joint pain, and low complement from immune complexes. Treatment is stopping the drug and symptom relief."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 359,
+  "topic": "Allergy & Immunology",
+  "category": "Allergy & Immunology",
+  "vignette": "A 3-day-old infant has seizures. Calcium is 6.1 mg/dL. Echocardiogram shows truncus arteriosus, and chest X-ray shows no thymic shadow. The infant has low-set ears and a small jaw.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most likely cause?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Defect in the common gamma chain"
+   },
+   {
+    "label": "B",
+    "text": "Trisomy 21"
+   },
+   {
+    "label": "C",
+    "text": "Maternal diabetes"
+   },
+   {
+    "label": "D",
+    "text": "Mutation in the BTK gene"
+   },
+   {
+    "label": "E",
+    "text": "Deletion at chromosome 22q11.2"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "22q11.2 deletion.",
+   "DiGeorge syndrome results from failed development of the third and fourth pharyngeal pouches: absent thymus (T-cell deficiency), absent parathyroids (low calcium), and outflow-tract heart defects."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 360,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 54-year-old woman returns for the result of a breast biopsy, which shows invasive cancer. She is seated in a private room with her husband.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate way to begin?",
+  "options": [
+   {
+    "label": "A",
+    "text": "\"I'm sorry, the biopsy shows cancer.\""
+   },
+   {
+    "label": "B",
+    "text": "\"Let's talk about surgery and chemotherapy options.\""
+   },
+   {
+    "label": "C",
+    "text": "\"What is your understanding of why we did the biopsy?\""
+   },
+   {
+    "label": "D",
+    "text": "\"Don't worry, this is very treatable.\""
+   },
+   {
+    "label": "E",
+    "text": "\"I'd like the oncologist to give you the results.\""
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Ask what the patient already understands.",
+   "In the SPIKES approach: Setting, Perception, Invitation, Knowledge, Emotions, Strategy. After the setting is arranged, the clinician finds out what the patient knows and how much they want to hear before giving the news."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 361,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A physician discovers that a hospitalized patient received twice the ordered dose of a blood pressure medication yesterday because of an order-entry mistake. The patient had no symptoms and vital signs remained normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate action?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Tell the patient about the error, apologize, and explain what will be done to prevent it happening again"
+   },
+   {
+    "label": "B",
+    "text": "Document the error in the chart but tell the patient only if asked"
+   },
+   {
+    "label": "C",
+    "text": "Report it to the pharmacy and say nothing, since no harm occurred"
+   },
+   {
+    "label": "D",
+    "text": "Ask the hospital's legal department whether to tell the patient"
+   },
+   {
+    "label": "E",
+    "text": "Tell the patient's family instead of the patient"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Disclose and apologize.",
+   "Patients are told about errors in their care whether or not harm resulted. Honest disclosure respects autonomy and maintains trust. The error is also reported through the hospital's safety system."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 362,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A surgery resident notices that an attending surgeon smells of alcohol and has slurred speech just before a scheduled operation.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate action?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Say nothing, because the attending is senior"
+   },
+   {
+    "label": "B",
+    "text": "Offer the attending coffee and proceed"
+   },
+   {
+    "label": "C",
+    "text": "Tell the patient privately and let the patient decide"
+   },
+   {
+    "label": "D",
+    "text": "Wait to see whether the attending makes an error"
+   },
+   {
+    "label": "E",
+    "text": "Make sure the attending does not operate, and report to the department chair or physician health program"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Protect the patient and report.",
+   "Patient safety comes first: an impaired physician must not provide care. Physicians have a duty to report impaired colleagues through the proper channel, which also gets the colleague help."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 363,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 16-year-old girl comes to clinic alone and asks for contraception. She is sexually active with a boyfriend her own age and asks that her parents not be told.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate response?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Tell her parental consent is required"
+   },
+   {
+    "label": "B",
+    "text": "Provide contraception and counseling confidentially"
+   },
+   {
+    "label": "C",
+    "text": "Call her parents after the visit"
+   },
+   {
+    "label": "D",
+    "text": "Refuse and recommend abstinence"
+   },
+   {
+    "label": "E",
+    "text": "Require the boyfriend to attend"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Confidential care.",
+   "Minors can generally consent on their own to contraception, pregnancy care, treatment of sexually transmitted infections, and in many places substance use and mental health care. Encourage, but do not require, talking with parents."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 364,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 68-year-old man who speaks only Spanish is being consented for cardiac catheterization. His adult daughter, who is bilingual, offers to translate.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate action?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Accept the daughter's offer"
+   },
+   {
+    "label": "B",
+    "text": "Use a translation app on a phone"
+   },
+   {
+    "label": "C",
+    "text": "Have the patient sign the form and explain later"
+   },
+   {
+    "label": "D",
+    "text": "Use a professional medical interpreter"
+   },
+   {
+    "label": "E",
+    "text": "Ask a bilingual member of the cleaning staff"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Professional interpreter.",
+   "Family members may leave out, soften, or alter information and their presence compromises privacy. Trained interpreters, in person or by phone or video, are the standard for consent discussions."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 365,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 7-year-old boy is bleeding heavily after a car crash and will die without a blood transfusion. His parents are Jehovah's Witnesses and refuse transfusion on religious grounds. There is no time to obtain a court order.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate action?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Respect the parents' refusal"
+   },
+   {
+    "label": "B",
+    "text": "Give saline only"
+   },
+   {
+    "label": "C",
+    "text": "Give the transfusion"
+   },
+   {
+    "label": "D",
+    "text": "Ask the hospital chaplain to persuade the parents"
+   },
+   {
+    "label": "E",
+    "text": "Transfer the child to another hospital"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Transfuse.",
+   "Parents may not refuse life-saving treatment for a child. In an emergency the physician treats without waiting for a court order. A competent adult Jehovah's Witness, in contrast, may refuse blood for themselves."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 366,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 79-year-old man with mild dementia has a gangrenous toe and refuses amputation. He explains that he understands the infection could spread and kill him, that surgery would likely prevent this, and that he would rather accept that risk than lose part of his foot. His son demands the surgery be done.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate action?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Proceed with surgery on the son's consent"
+   },
+   {
+    "label": "B",
+    "text": "Seek a court-appointed guardian"
+   },
+   {
+    "label": "C",
+    "text": "Request psychiatric consultation before any decision"
+   },
+   {
+    "label": "D",
+    "text": "Sedate the patient and operate"
+   },
+   {
+    "label": "E",
+    "text": "Respect the patient's refusal and offer other care"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Respect the refusal.",
+   "Capacity is specific to the decision: the patient must understand the facts, appreciate how they apply to him, reason about the options, and express a choice. A diagnosis of dementia does not by itself remove capacity, and any physician can assess it."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 367,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 34-year-old patient tells her primary care physician at the end of a visit that she finds him attractive and asks him to dinner. The physician is single.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate response?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Accept, since both are consenting adults"
+   },
+   {
+    "label": "B",
+    "text": "Decline, and explain that a romantic relationship with a patient is not appropriate"
+   },
+   {
+    "label": "C",
+    "text": "Accept, but transfer her care first"
+   },
+   {
+    "label": "D",
+    "text": "Ignore the comment and leave the room"
+   },
+   {
+    "label": "E",
+    "text": "Suggest waiting until the next appointment to discuss"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Decline.",
+   "Romantic or sexual relationships with current patients are never appropriate, because of the power imbalance and the risk to the patient's care. The boundary is stated kindly and clearly and care continues."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 368,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "The daughter of an 81-year-old man asks the physician not to tell her father that his scan shows metastatic cancer, saying, \"It would destroy him.\" The patient is alert and has decision-making capacity.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate response?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Agree to withhold the diagnosis"
+   },
+   {
+    "label": "B",
+    "text": "Tell the daughter this request is unethical and end the discussion"
+   },
+   {
+    "label": "C",
+    "text": "Tell the patient immediately while the daughter is out of the room"
+   },
+   {
+    "label": "D",
+    "text": "Explore the daughter's concerns, then ask the patient how much he wants to know"
+   },
+   {
+    "label": "E",
+    "text": "Ask the ethics committee to decide"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Explore, then ask the patient.",
+   "Families usually make this request out of love. Understanding their fear comes first. But a patient with capacity has the right to their own medical information, and the right to decline it, so the physician asks the patient how much he wants to know and who should be involved."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 369,
+  "topic": "Communication & Professionalism",
+  "category": "Professionalism",
+  "vignette": "A 73-year-old woman with end-stage lung disease has a written living will stating she does not want intubation. She is now unresponsive with respiratory failure. Her husband says, \"Do everything, put her on the machine.\"",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate action?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Follow the living will and provide comfort-focused care"
+   },
+   {
+    "label": "B",
+    "text": "Intubate, because the husband is the surrogate"
+   },
+   {
+    "label": "C",
+    "text": "Intubate for 48 hours as a compromise"
+   },
+   {
+    "label": "D",
+    "text": "Ask the couple's children to vote"
+   },
+   {
+    "label": "E",
+    "text": "Obtain a court order"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Follow the living will.",
+   "A patient's own clearly stated wishes outrank a surrogate's preferences. The surrogate's role is to say what the patient would have wanted, not what the surrogate wants. The husband needs compassionate explanation and support."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 370,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 64-year-old man on dialysis missed two sessions. Potassium is 7.4 mEq/L. ECG shows tall peaked T waves and a widened QRS.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate first step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Sodium polystyrene sulfonate"
+   },
+   {
+    "label": "B",
+    "text": "IV insulin and glucose"
+   },
+   {
+    "label": "C",
+    "text": "Emergency dialysis"
+   },
+   {
+    "label": "D",
+    "text": "IV calcium gluconate"
+   },
+   {
+    "label": "E",
+    "text": "Nebulized albuterol"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "IV calcium gluconate.",
+   "With ECG changes, calcium is given first to stabilize the heart muscle; it works in minutes but does not lower potassium. Insulin with glucose and albuterol then shift potassium into cells, and dialysis removes it."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 371,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 52-year-old woman is brought in after a seizure. Sodium is 112 mEq/L. She remains confused.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Fluid restriction alone"
+   },
+   {
+    "label": "B",
+    "text": "Bolus of 3% saline, raising sodium by no more than about 8 mEq/L in 24 hours"
+   },
+   {
+    "label": "C",
+    "text": "Normal saline at 500 mL/h until sodium is 135 mEq/L"
+   },
+   {
+    "label": "D",
+    "text": "Oral salt tablets"
+   },
+   {
+    "label": "E",
+    "text": "Tolvaptan"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Hypertonic saline with a controlled rise.",
+   "Severe symptoms (seizure, coma) call for 3% saline boluses to raise sodium by 4\u20136 mEq/L quickly. The total rise is kept to about 8 mEq/L in 24 hours to avoid osmotic demyelination."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 372,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 66-year-old man with small cell lung cancer has sodium of 124 mEq/L and mild nausea. He appears normally hydrated. Serum osmolality is 258 mOsm/kg, urine osmolality 480 mOsm/kg, urine sodium 45 mEq/L. Thyroid and adrenal tests are normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate initial treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Fluid restriction"
+   },
+   {
+    "label": "B",
+    "text": "Normal saline infusion"
+   },
+   {
+    "label": "C",
+    "text": "Hydrochlorothiazide"
+   },
+   {
+    "label": "D",
+    "text": "Desmopressin"
+   },
+   {
+    "label": "E",
+    "text": "3% saline infusion"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Fluid restriction.",
+   "This is the syndrome of inappropriate ADH: low serum osmolality, urine that is not maximally dilute, urine sodium above 40, and normal volume. Normal saline can make it worse because the salt is excreted and the water kept."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 373,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 70-year-old man had prolonged hypotension during surgery for a ruptured aortic aneurysm. Two days later creatinine has risen from 1.0 to 3.4 mg/dL. Urine sodium is 52 mEq/L and fractional excretion of sodium is 3%.",
+  "sharedCase": "",
+  "stem": "Which urine finding is most likely?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Red cell casts"
+   },
+   {
+    "label": "B",
+    "text": "White cell casts"
+   },
+   {
+    "label": "C",
+    "text": "Hyaline casts only"
+   },
+   {
+    "label": "D",
+    "text": "Fatty casts"
+   },
+   {
+    "label": "E",
+    "text": "Muddy brown granular casts"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Muddy brown granular casts.",
+   "Ischemic acute tubular necrosis follows prolonged low blood pressure. Damaged tubules cannot reabsorb sodium, so fractional excretion is above 2%. Prerenal injury gives a value below 1% and bland urine."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 374,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 7-year-old boy has cola-colored urine, puffy eyelids, and blood pressure of 138/90 mm Hg. He had impetigo 3 weeks ago. Urinalysis shows red cell casts.",
+  "sharedCase": "",
+  "stem": "Which laboratory finding is most likely?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Normal C3 and low C4"
+   },
+   {
+    "label": "B",
+    "text": "Positive ANCA"
+   },
+   {
+    "label": "C",
+    "text": "Low C3"
+   },
+   {
+    "label": "D",
+    "text": "Raised IgA"
+   },
+   {
+    "label": "E",
+    "text": "Positive anti\u2013glomerular basement membrane antibody"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Low C3.",
+   "Post-streptococcal glomerulonephritis follows throat infection by 1\u20132 weeks or skin infection by 3\u20136 weeks. C3 is low and returns to normal within about 8 weeks. Treatment is supportive. IgA nephropathy, in contrast, appears within days of an infection, with normal complement."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 375,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 4-year-old boy has swelling of the face and legs for a week. Urinalysis shows 4+ protein and no blood. Albumin is 1.8 g/dL, cholesterol is high, creatinine and complement are normal, and blood pressure is normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Kidney biopsy"
+   },
+   {
+    "label": "B",
+    "text": "Oral prednisone"
+   },
+   {
+    "label": "C",
+    "text": "Cyclophosphamide"
+   },
+   {
+    "label": "D",
+    "text": "IV albumin and furosemide only"
+   },
+   {
+    "label": "E",
+    "text": "Observation"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Oral prednisone.",
+   "Nephrotic syndrome in a young child with no blood in the urine, normal blood pressure, and normal complement is presumed minimal change disease and treated with steroids without biopsy. Biopsy is for those who do not respond or have atypical features."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 376,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 28-year-old man is found after lying on the floor for 18 hours following a drug overdose. Urine is dark brown; dipstick is strongly positive for blood, but microscopy shows no red cells. Creatine kinase is 48,000 U/L.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Aggressive IV isotonic saline"
+   },
+   {
+    "label": "B",
+    "text": "Furosemide"
+   },
+   {
+    "label": "C",
+    "text": "Immediate dialysis"
+   },
+   {
+    "label": "D",
+    "text": "Fluid restriction"
+   },
+   {
+    "label": "E",
+    "text": "IV glucocorticoids"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Aggressive IV saline.",
+   "Dipstick positive for blood without red cells means myoglobin. Rhabdomyolysis damages the kidney tubules; early large-volume fluids are the main protection. Watch for high potassium and low calcium."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 377,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 45-year-old man is brought in confused. pH is 7.14, bicarbonate 8 mEq/L, anion gap 28, and the osmolal gap is raised. Glucose, lactate, and ketones are normal. Urine shows envelope-shaped crystals.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Activated charcoal"
+   },
+   {
+    "label": "B",
+    "text": "N-acetylcysteine"
+   },
+   {
+    "label": "C",
+    "text": "Sodium bicarbonate alone"
+   },
+   {
+    "label": "D",
+    "text": "Fomepizole"
+   },
+   {
+    "label": "E",
+    "text": "Naloxone"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Fomepizole.",
+   "A high anion gap with a high osmolal gap and calcium oxalate crystals indicates ethylene glycol poisoning. Fomepizole blocks alcohol dehydrogenase so toxic acids are not formed. Dialysis is added for severe acidosis or kidney injury."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 378,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 50-year-old woman with type 2 diabetes has a urine albumin-to-creatinine ratio of 180 mg/g on two tests 3 months apart. Blood pressure is 142/88 mm Hg and eGFR is 72 mL/min/1.73 m\u00b2.",
+  "sharedCase": "",
+  "stem": "Which medication is most appropriate to start?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Amlodipine"
+   },
+   {
+    "label": "B",
+    "text": "Metoprolol"
+   },
+   {
+    "label": "C",
+    "text": "Lisinopril"
+   },
+   {
+    "label": "D",
+    "text": "Hydrochlorothiazide"
+   },
+   {
+    "label": "E",
+    "text": "Hydralazine"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "ACE inhibitor.",
+   "In diabetes with albuminuria, an ACE inhibitor or angiotensin receptor blocker lowers pressure inside the glomerulus and slows kidney disease. An SGLT2 inhibitor is also recommended. Creatinine and potassium are checked 1\u20132 weeks after starting."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 379,
+  "topic": "Nephrology & Genitourinary",
+  "category": "Nephrology & GU",
+  "vignette": "A 26-year-old woman at 16 weeks of pregnancy has no urinary symptoms. Routine urine culture grows more than 100,000 colonies/mL of Escherichia coli.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "No treatment, since she has no symptoms"
+   },
+   {
+    "label": "B",
+    "text": "Ciprofloxacin"
+   },
+   {
+    "label": "C",
+    "text": "Doxycycline"
+   },
+   {
+    "label": "D",
+    "text": "Repeat culture in 4 weeks"
+   },
+   {
+    "label": "E",
+    "text": "Cephalexin"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Cephalexin.",
+   "Bacteria in the urine without symptoms are treated in pregnancy because the risk of pyelonephritis and preterm birth is high. Fluoroquinolones and tetracyclines are avoided. A repeat culture confirms clearance."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 380,
+  "topic": "Hematology",
+  "category": "Hematology & Palliative",
+  "vignette": "A 52-year-old man has fatigue. Hemoglobin is 9.4 g/dL, MCV 72 fL, ferritin 6 ng/mL. He has no visible bleeding and eats a normal diet.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step, besides iron replacement?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Hemoglobin electrophoresis"
+   },
+   {
+    "label": "B",
+    "text": "Bone marrow biopsy"
+   },
+   {
+    "label": "C",
+    "text": "Colonoscopy"
+   },
+   {
+    "label": "D",
+    "text": "Repeat blood count in 3 months"
+   },
+   {
+    "label": "E",
+    "text": "Vitamin B12 level"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Colonoscopy.",
+   "Iron deficiency in a man or a postmenopausal woman is from gut blood loss until proven otherwise; colon cancer must be excluded. Upper endoscopy is usually done at the same time."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 381,
+  "topic": "Hematology",
+  "category": "Hematology & Palliative",
+  "vignette": "A 63-year-old woman has received unfractionated heparin for 7 days after hip surgery. Platelets have fallen from 240,000 to 90,000/mm\u00b3 and she has a new deep vein thrombosis.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate management?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Continue heparin and add warfarin"
+   },
+   {
+    "label": "B",
+    "text": "Switch to enoxaparin"
+   },
+   {
+    "label": "C",
+    "text": "Platelet transfusion"
+   },
+   {
+    "label": "D",
+    "text": "Stop heparin and start warfarin alone"
+   },
+   {
+    "label": "E",
+    "text": "Stop heparin and start argatroban"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Stop heparin, start a non-heparin anticoagulant.",
+   "Heparin-induced thrombocytopenia appears 5\u201310 days after starting, with a platelet fall of more than half and clotting rather than bleeding. All heparin, including low-molecular-weight, is stopped. Warfarin is not started until platelets recover, because early warfarin can cause skin necrosis and limb gangrene."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 382,
+  "topic": "Hematology",
+  "category": "Hematology & Palliative",
+  "vignette": "A 36-year-old woman has confusion, fever, and bruising. Hemoglobin is 7.8 g/dL, platelets 18,000/mm\u00b3, creatinine 1.9 mg/dL, LDH high. Blood film shows fragmented red cells. PT and PTT are normal.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Plasma exchange"
+   },
+   {
+    "label": "B",
+    "text": "Platelet transfusion"
+   },
+   {
+    "label": "C",
+    "text": "Heparin"
+   },
+   {
+    "label": "D",
+    "text": "Splenectomy"
+   },
+   {
+    "label": "E",
+    "text": "IV antibiotics alone"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Plasma exchange.",
+   "Thrombotic thrombocytopenic purpura is from deficient ADAMTS13. Fragmented red cells and low platelets with normal clotting times separate it from disseminated intravascular coagulation. Plasma exchange is started on suspicion; platelet transfusion is avoided unless bleeding is life-threatening."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 383,
+  "topic": "Hematology",
+  "category": "Hematology & Palliative",
+  "vignette": "A 22-year-old man with sickle cell disease has had four admissions for pain crises in the past year.",
+  "sharedCase": "",
+  "stem": "Which treatment will most reduce the frequency of crises?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Folic acid"
+   },
+   {
+    "label": "B",
+    "text": "Hydroxyurea"
+   },
+   {
+    "label": "C",
+    "text": "Daily aspirin"
+   },
+   {
+    "label": "D",
+    "text": "Iron supplementation"
+   },
+   {
+    "label": "E",
+    "text": "Monthly vitamin B12 injections"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Hydroxyurea.",
+   "It raises fetal hemoglobin, reducing sickling, pain crises, acute chest syndrome, and deaths. Folic acid supports red cell production but does not prevent crises."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 384,
+  "topic": "Hematology",
+  "category": "Hematology & Palliative",
+  "vignette": "A 67-year-old woman has fatigue, a sore smooth tongue, numbness of the feet, and loss of vibration sense. Hemoglobin is 8.6 g/dL, MCV 118 fL.",
+  "sharedCase": "",
+  "stem": "Which set of results is expected?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Normal methylmalonic acid, raised homocysteine"
+   },
+   {
+    "label": "B",
+    "text": "Normal methylmalonic acid, normal homocysteine"
+   },
+   {
+    "label": "C",
+    "text": "Low methylmalonic acid, low homocysteine"
+   },
+   {
+    "label": "D",
+    "text": "Raised methylmalonic acid, raised homocysteine"
+   },
+   {
+    "label": "E",
+    "text": "Raised methylmalonic acid, normal homocysteine"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Both raised.",
+   "B12 is needed to convert methylmalonyl-CoA and to convert homocysteine to methionine, so both build up. In folate deficiency only homocysteine rises, and there are no nerve signs. Pernicious anemia is the most common cause."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 385,
+  "topic": "Hematology",
+  "category": "Hematology & Palliative",
+  "vignette": "A 31-year-old woman has nosebleeds and small red spots on her legs. Platelets are 12,000/mm\u00b3; hemoglobin, white count, blood film, and clotting tests are otherwise normal. The spleen is not enlarged. HIV and hepatitis C tests are negative.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Observation"
+   },
+   {
+    "label": "B",
+    "text": "Platelet transfusion"
+   },
+   {
+    "label": "C",
+    "text": "Glucocorticoids"
+   },
+   {
+    "label": "D",
+    "text": "Splenectomy"
+   },
+   {
+    "label": "E",
+    "text": "Plasma exchange"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Glucocorticoids.",
+   "Immune thrombocytopenia is isolated low platelets with no other cause. Adults are treated when platelets are below 30,000/mm\u00b3 or there is bleeding. Immunoglobulin is added when a rapid rise is needed."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 386,
+  "topic": "Palliative Care",
+  "category": "Hematology & Palliative",
+  "vignette": "A 70-year-old man with metastatic prostate cancer is starting scheduled morphine for bone pain.",
+  "sharedCase": "",
+  "stem": "Which of the following should be prescribed at the same time?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Senna"
+   },
+   {
+    "label": "B",
+    "text": "Ondansetron indefinitely"
+   },
+   {
+    "label": "C",
+    "text": "Naloxone infusion"
+   },
+   {
+    "label": "D",
+    "text": "Psyllium fiber alone"
+   },
+   {
+    "label": "E",
+    "text": "Loperamide"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Senna.",
+   "Constipation is the one opioid side effect to which patients do not develop tolerance, so a stimulant laxative is started with the opioid. Fiber alone can worsen it."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 387,
+  "topic": "Palliative Care",
+  "category": "Hematology & Palliative",
+  "vignette": "A 76-year-old woman with terminal lung cancer in hospice is distressed by breathlessness at rest. Oxygen saturation is 93% on room air. She is not anxious and has no reversible cause.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Lorazepam alone"
+   },
+   {
+    "label": "B",
+    "text": "High-flow oxygen"
+   },
+   {
+    "label": "C",
+    "text": "Intubation"
+   },
+   {
+    "label": "D",
+    "text": "Low-dose morphine"
+   },
+   {
+    "label": "E",
+    "text": "Furosemide"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Low-dose morphine.",
+   "Opioids are the best treatment for breathlessness at the end of life and, at careful doses, do not shorten life. Oxygen helps only when blood oxygen is low. A fan blowing on the face also helps."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 388,
+  "topic": "Palliative Care",
+  "category": "Hematology & Palliative",
+  "vignette": "A 78-year-old man with metastatic pancreatic cancer has declined further chemotherapy. He is in bed most of the day and wants to be at home, comfortable, with his family.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate recommendation?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Referral to hospice"
+   },
+   {
+    "label": "B",
+    "text": "Admission for artificial nutrition"
+   },
+   {
+    "label": "C",
+    "text": "Second-line chemotherapy"
+   },
+   {
+    "label": "D",
+    "text": "Transfer to a nursing facility for rehabilitation"
+   },
+   {
+    "label": "E",
+    "text": "Return to clinic in 3 months"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Hospice.",
+   "Hospice is for patients with an expected survival of 6 months or less who choose comfort over disease-directed treatment. It provides care at home, medicines and equipment, and support for the family, including after death."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 389,
+  "topic": "Palliative Care",
+  "category": "Hematology & Palliative",
+  "vignette": "A 59-year-old woman with breast cancer spread to bone takes one oxycodone-acetaminophen tablet every 4 hours around the clock and still rates her pain 8 out of 10.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate change?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Add a second acetaminophen-containing product"
+   },
+   {
+    "label": "B",
+    "text": "Switch to a long-acting opioid with a short-acting opioid for breakthrough pain"
+   },
+   {
+    "label": "C",
+    "text": "Switch to codeine"
+   },
+   {
+    "label": "D",
+    "text": "Continue the same regimen and reassess in a month"
+   },
+   {
+    "label": "E",
+    "text": "Stop opioids because of the risk of addiction"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Long-acting opioid with breakthrough doses.",
+   "Constant severe cancer pain needs a scheduled long-acting opioid, with a short-acting dose of roughly 10\u201315% of the daily total for breakthrough pain. Combination tablets are limited by the acetaminophen content. Addiction concern should not lead to undertreated cancer pain."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 390,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 24-year-old man started chemotherapy for Burkitt lymphoma 2 days ago. Potassium is 6.1 mEq/L, phosphate 8.2 mg/dL, calcium 6.8 mg/dL, uric acid 14 mg/dL, creatinine 2.3 mg/dL. IV fluids are running.",
+  "sharedCase": "",
+  "stem": "Which medication is most appropriate to add?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Allopurinol"
+   },
+   {
+    "label": "B",
+    "text": "Rasburicase"
+   },
+   {
+    "label": "C",
+    "text": "Furosemide"
+   },
+   {
+    "label": "D",
+    "text": "Calcium carbonate"
+   },
+   {
+    "label": "E",
+    "text": "Probenecid"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Rasburicase.",
+   "Tumor lysis syndrome releases cell contents: high potassium, phosphate, and uric acid, with low calcium and kidney injury. Allopurinol prevents new uric acid forming but does not remove what is there; rasburicase breaks it down. It is avoided in G6PD deficiency. Low calcium is treated only if symptomatic."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 391,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 55-year-old woman had chemotherapy for leukemia 9 days ago. Temperature is 38.6\u00b0C. Absolute neutrophil count is 300/mm\u00b3. She has no localizing symptoms and looks well.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Blood cultures and observe without antibiotics"
+   },
+   {
+    "label": "B",
+    "text": "Oral amoxicillin and discharge"
+   },
+   {
+    "label": "C",
+    "text": "Chest CT before any treatment"
+   },
+   {
+    "label": "D",
+    "text": "Blood cultures and immediate IV cefepime"
+   },
+   {
+    "label": "E",
+    "text": "Filgrastim alone"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Cultures and immediate anti-pseudomonal antibiotic.",
+   "Fever with a neutrophil count below 500/mm\u00b3 is an emergency. Signs of infection are often absent. A broad antibiotic covering Pseudomonas (cefepime, piperacillin-tazobactam, or a carbapenem) is given within an hour."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 392,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 61-year-old woman with breast cancer has 2 weeks of worsening mid-back pain, now with leg weakness and difficulty urinating since yesterday.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate immediate step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "IV dexamethasone"
+   },
+   {
+    "label": "B",
+    "text": "Bone scan"
+   },
+   {
+    "label": "C",
+    "text": "Oral opioids and outpatient MRI"
+   },
+   {
+    "label": "D",
+    "text": "Lumbar puncture"
+   },
+   {
+    "label": "E",
+    "text": "Physical therapy referral"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "IV dexamethasone.",
+   "Back pain with new neurologic signs in a cancer patient is spinal cord compression until excluded. Steroids are given at once, then urgent MRI of the whole spine, then surgery or radiation. Function at the start of treatment predicts outcome."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 393,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 64-year-old man with squamous cell lung cancer is confused, constipated, and passing large amounts of urine. Calcium is 14.8 mg/dL and PTH is suppressed.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate initial treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Furosemide"
+   },
+   {
+    "label": "B",
+    "text": "Hydrochlorothiazide"
+   },
+   {
+    "label": "C",
+    "text": "IV normal saline"
+   },
+   {
+    "label": "D",
+    "text": "Cinacalcet"
+   },
+   {
+    "label": "E",
+    "text": "Parathyroidectomy"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "IV normal saline.",
+   "Hypercalcemia of malignancy, here from PTH-related peptide, causes volume loss through heavy urination. Fluids come first; calcitonin acts fast and an IV bisphosphonate gives a lasting effect. Loop diuretics are used only for fluid overload, and thiazides raise calcium."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 394,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 58-year-old man has smoked a pack a day for 30 years and still smokes. He has no symptoms.",
+  "sharedCase": "",
+  "stem": "Which screening test is recommended?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Chest X-ray every year"
+   },
+   {
+    "label": "B",
+    "text": "Sputum cytology"
+   },
+   {
+    "label": "C",
+    "text": "No screening"
+   },
+   {
+    "label": "D",
+    "text": "PET scan every 2 years"
+   },
+   {
+    "label": "E",
+    "text": "Low-dose chest CT every year"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Annual low-dose CT.",
+   "Screening is recommended for adults aged 50\u201380 with at least 20 pack-years who smoke now or quit within the past 15 years. Chest X-ray screening does not reduce deaths."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 395,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 36-year-old man asks about colon cancer screening. His father was diagnosed with colon cancer at age 52. No other relatives are affected.",
+  "sharedCase": "",
+  "stem": "When should he begin colonoscopy?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Now"
+   },
+   {
+    "label": "B",
+    "text": "Age 40"
+   },
+   {
+    "label": "C",
+    "text": "Age 45"
+   },
+   {
+    "label": "D",
+    "text": "Age 50"
+   },
+   {
+    "label": "E",
+    "text": "Age 52"
+   }
+  ],
+  "correct": [
+   "B"
+  ],
+  "multi": false,
+  "explanation": [
+   "Age 40.",
+   "With a first-degree relative diagnosed before 60, colonoscopy starts at 40 or 10 years before the relative's age at diagnosis, whichever is earlier, and is repeated every 5 years. Here 10 years earlier would be 42, so 40 applies."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 396,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 45-year-old woman feels a firm lump in her left breast. Mammogram and ultrasound show a 1.8-cm irregular mass with spiculated margins.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate next step?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Repeat imaging in 6 months"
+   },
+   {
+    "label": "B",
+    "text": "Excision of the mass with wide margins"
+   },
+   {
+    "label": "C",
+    "text": "Breast MRI"
+   },
+   {
+    "label": "D",
+    "text": "Core needle biopsy"
+   },
+   {
+    "label": "E",
+    "text": "BRCA testing"
+   }
+  ],
+  "correct": [
+   "D"
+  ],
+  "multi": false,
+  "explanation": [
+   "Core needle biopsy.",
+   "A suspicious breast mass needs a tissue diagnosis before any surgery. Core biopsy gives histology and receptor status (estrogen, progesterone, HER2), which guide treatment."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 397,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 50-year-old man has fatigue and fullness in the left upper abdomen. White cell count is 142,000/mm\u00b3 with neutrophils at all stages of maturation and increased basophils. The spleen is enlarged. Genetic testing shows a t(9;22) translocation.",
+  "sharedCase": "",
+  "stem": "Which of the following is the most appropriate treatment?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Imatinib"
+   },
+   {
+    "label": "B",
+    "text": "All-trans retinoic acid"
+   },
+   {
+    "label": "C",
+    "text": "Rituximab"
+   },
+   {
+    "label": "D",
+    "text": "Hydroxyurea alone long term"
+   },
+   {
+    "label": "E",
+    "text": "Observation"
+   }
+  ],
+  "correct": [
+   "A"
+  ],
+  "multi": false,
+  "explanation": [
+   "Imatinib.",
+   "Chronic myeloid leukemia carries the Philadelphia chromosome, producing the BCR-ABL tyrosine kinase. Tyrosine kinase inhibitors give long-term control. A low leukocyte alkaline phosphatase score separates it from a reactive high white count."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 398,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 26-year-old woman has a painless, rubbery 3-cm lymph node in the neck for 6 weeks, with night sweats, weight loss, and generalized itching. Chest X-ray shows a wide mediastinum.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best test to establish the diagnosis?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Fine-needle aspiration"
+   },
+   {
+    "label": "B",
+    "text": "Bone marrow biopsy"
+   },
+   {
+    "label": "C",
+    "text": "Excisional lymph node biopsy"
+   },
+   {
+    "label": "D",
+    "text": "PET scan"
+   },
+   {
+    "label": "E",
+    "text": "Trial of antibiotics"
+   }
+  ],
+  "correct": [
+   "C"
+  ],
+  "multi": false,
+  "explanation": [
+   "Excisional lymph node biopsy.",
+   "Lymphoma diagnosis needs the node's architecture; fine-needle aspiration is not enough. The picture suggests Hodgkin lymphoma, where Reed\u2013Sternberg cells are scattered among reactive cells. PET is used for staging after diagnosis."
+  ],
+  "priorCorrect": null,
+  "supplied": false
+ },
+ {
+  "id": 399,
+  "topic": "Oncology",
+  "category": "Oncology",
+  "vignette": "A 68-year-old man has 3 months of back pain and fatigue. Hemoglobin is 9.2 g/dL, calcium 11.8 mg/dL, creatinine 2.1 mg/dL, total protein high with normal albumin. Spine X-ray shows punched-out lytic lesions.",
+  "sharedCase": "",
+  "stem": "Which of the following is the best next test?",
+  "options": [
+   {
+    "label": "A",
+    "text": "Bone scan"
+   },
+   {
+    "label": "B",
+    "text": "PSA"
+   },
+   {
+    "label": "C",
+    "text": "Alkaline phosphatase"
+   },
+   {
+    "label": "D",
+    "text": "Parathyroid hormone"
+   },
+   {
+    "label": "E",
+    "text": "Serum protein electrophoresis with free light chains"
+   }
+  ],
+  "correct": [
+   "E"
+  ],
+  "multi": false,
+  "explanation": [
+   "Serum protein electrophoresis with free light chains.",
+   "High calcium, kidney injury, anemia, and lytic bone lesions suggest multiple myeloma. Bone scan is often negative because lesions are purely lytic, and alkaline phosphatase is usually normal. Bone marrow biopsy confirms."
+  ],
+  "priorCorrect": null,
+  "supplied": false
  }
 ]

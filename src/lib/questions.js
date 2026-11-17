@@ -48,6 +48,16 @@ export const CATEGORY_COLORS = {
   Ophthalmology: '#d9922f',
   Gastroenterology: '#c2703f',
   "Women's Health": '#cf5fa0',
+  Endocrinology: '#b9a033',
+  Urology: '#4f9fb8',
+  Musculoskeletal: '#9a7b5c',
+  Dermatology: '#d07a8e',
+  Rheumatology: '#6c7fd8',
+  'Allergy & Immunology': '#5fae5a',
+  Professionalism: '#7a8fa6',
+  'Nephrology & GU': '#3aa3a3',
+  'Hematology & Palliative': '#c9584f',
+  Oncology: '#a56bc0',
   Other: '#8a8f98',
 }
 
