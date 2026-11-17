@@ -51,7 +51,13 @@ export default function Browse({ store, onStart }) {
                 <Highlight text={q.stem} term={term} />
               </span>
               {store.flagged.includes(q.id) && <span style={{ color: 'var(--warn)' }}>★</span>}
-              <span className="muted" style={{ fontSize: 16 }}>{isOpen ? '▾' : '▸'}</span>
+              <svg
+                className="chevron"
+                width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"
+                style={{ transform: isOpen ? 'rotate(90deg)' : 'none' }}
+              >
+                <path d="M6 3.5 10.5 8 6 12.5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
             </button>
             {isOpen && (
               <div className="fade" style={{ marginTop: 12, borderTop: '1px solid var(--line)', paddingTop: 12 }}>
